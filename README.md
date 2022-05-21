@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Invites Discord Bot
 
-You can use the [editor on GitHub](https://github.com/catsarecoo/catsarecoo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+IMAGINE A BOT...
 
-```markdown
-Syntax highlighted code block
+...That can track every invite that happens on the server also analyses who was invited by whom.
 
-# Header 1
-## Header 2
-### Header 3
+## Features
 
-- Bulleted
-- List
+What Invites offers:
+Join and leave messages, to give new users a warm welcome
+Invite tracking/management, to track the invites of your members
+Moderation system, to keep your server save from rule breakers
+Utility commands, e.g. join roles, and much more
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Links
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[Terms](https://www.termsfeed.com/live/7ad25ee9-23d8-4920-810a-d5e4cbea20ed)
 
-### Jekyll Themes
+[Privacy](https://www.termsfeed.com/live/745c1276-4baf-4ee8-be1f-fb0027d438e9)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/catsarecoo/catsarecoo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Invite](https://discord.com/api/oauth2/authorize?client_id=977603766297706566&permissions=8&scope=bot%20applications.commands)
 
-### Support or Contact
+## Credits
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Bot by Robloxian_51625162#6772**
+
+Based off source by
+
+[InviteManager](https://github.com/SideProjectGuys/invite-manager-bot)
