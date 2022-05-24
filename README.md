@@ -1,34 +1,27 @@
-## Invites Discord Bot
+## C10H15N                                                                                                                                            
 
+A multipurpose bot with many cool features like moderation fun and much more!
 
+Features:
 
+✅ So much fun commands to use!
 
-IMAGINE A BOT...
+✅ NEW: Slash Commands!
 
-...That can track every invite that happens on the server also analyses who was invited by whom.
+✅ Moderation commands to moderate your server!
 
-## Features
+✅ Simple and easy to use ticket system
 
-What Invites offers:
-Join and leave messages, to give new users a warm welcome
-Invite tracking/management, to track the invites of your members
-Moderation system, to keep your server save from rule breakers
-Utility commands, e.g. join roles, and much more
+✅ An almost 24/7 online bot ready for you to use!
 
+✅ COMING SOON: Economy Commands!
 
+✅ And so much more!
 
-## Links
+## Commands
 
-[Terms](https://www.termsfeed.com/live/7ad25ee9-23d8-4920-810a-d5e4cbea20ed)
+Run c!help for a list of commands
 
-[Privacy](https://www.termsfeed.com/live/745c1276-4baf-4ee8-be1f-fb0027d438e9)
+# Invite
 
-[Invite](https://discord.com/api/oauth2/authorize?client_id=977603766297706566&permissions=8&scope=bot%20applications.commands)
-
-## Credits
-
-**Bot by Robloxian_51625162#6772**
-
-Based off source by
-
-[InviteManager](https://github.com/SideProjectGuys/invite-manager-bot)
+[![Invite C10H15N!](https://img.shields.io/badge/-Add%20To%20Discord-7289DA?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.com/api/oauth2/authorize?client_id=959786154373312572&permissions=8&scope=bot%20applications.commands) [![Support Server](https://img.shields.io/discord/932392800471879740?color=7289DA%20&label=Join%20our%20Discord&logo=discord&logoColor=fff&style=for-the-badge)](https://discord.gg/97fs9sAuQD)
